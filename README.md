@@ -1,5 +1,9 @@
 # Erick's Album Audio Replacer
 
+NOTE FROM ERICK: Everything here is entirely Claude and Gemini. I had these series of programs made to make my life less manual, quicker, and easier overall.
+I figured that there might be some other folk out there seeking a similar program that just works. I have only ever used AI for programming purposes, and I will
+never use it in my creative work.
+
 A small desktop tool for people who manage a personal music library in **Apple Music** (or iTunes). It **swaps the audio inside a tagged track for audio from a better source**, like a lossless FLAC, while keeping the track's existing tags, cover art, and filename.
 
 <!-- Add a screenshot to docs/screenshot.png and uncomment the line below:
