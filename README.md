@@ -66,7 +66,7 @@ Developed and tested on **Windows**. It uses cross-platform libraries and may wo
 1. **Install Python 3** from [python.org](https://www.python.org/downloads/). On Windows, tick *"Add Python to PATH"* during setup.
 2. **Get the code**:
    ```
-   git clone https://github.com/<your-username>/ericks-audio-album-replacer.git
+   git clone https://github.com/project-ceekay/ericks-audio-album-replacer.git
    cd ericks-audio-album-replacer
    ```
    (or download the repository as a ZIP and extract it)
@@ -168,7 +168,6 @@ Make sure `tkinterdnd2` is installed. If the app is run as Administrator, Window
 .
 ├── program.py         # The application
 ├── requirements.txt   # Python dependencies
-├── LICENSE            # MIT License
 └── README.md
 ```
 
